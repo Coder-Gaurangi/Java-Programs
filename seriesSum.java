@@ -6,7 +6,7 @@
 package prg;
 import java.util.Scanner;
 
-public class sereisSum
+public class seriesSum
 {
 	public static void main(String [] args)
 	{
